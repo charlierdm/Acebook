@@ -2,6 +2,8 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/394792d5ea375ab45585/maintainability)](https://codeclimate.com/github/jgumoes/acebook-loungin-lizards/maintainability)
 [![Ruby Style Guide](https://img.shields.io/badge/code_style-rubocop-brightgreen.svg)](https://github.com/rubocop/rubocop) [![jgumoes](https://circleci.com/gh/jgumoes/acebook-loungin-lizards.svg?style=shield)](https://app.circleci.com/pipelines/github/jgumoes/acebook-loungin-lizards)
 
+<img width="1430" alt="Screenshot 2021-04-01 at 18 02 57" src="https://user-images.githubusercontent.com/75075773/113328682-8d0cfe00-9314-11eb-9dc3-656053784a7a.png">
+
 
 ## Beta Version
 
